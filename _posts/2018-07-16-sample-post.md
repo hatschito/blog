@@ -13,4 +13,10 @@ Mauris vitae volutpat tellus. Nunc nec dolor eget lorem venenatis dapibus lobort
 
 Duis ante eros, volutpat luctus nibh non, dictum vehicula justo. Nulla vehicula tempor sem sed vestibulum. Vestibulum fringilla efficitur felis eu luctus. Curabitur ac urna lobortis, feugiat erat eget, commodo risus. Praesent in erat commodo, tristique urna at, iaculis purus. Cras tortor mauris, luctus in fermentum sit amet, tempus vel diam. Ut egestas venenatis justo at condimentum. Quisque vestibulum eget neque quis facilisis. Ut iaculis at nunc non volutpat. Praesent sed maximus ipsum. Etiam finibus nunc nunc, sit amet venenatis nisi accumsan eget. Fusce sed mattis mi, ut pellentesque justo.
 
+
 Aenean pharetra tellus non velit egestas, ac consectetur dolor dapibus. Cras gravida, leo id porta efficitur, lorem lorem condimentum nunc, vitae scelerisque ante erat quis urna. Suspendisse mattis laoreet quam quis interdum. In a mi est. Aenean suscipit viverra enim vel viverra. Quisque eu ligula ac ipsum tristique volutpat ac et sem. Nullam tristique est blandit, iaculis metus ut, fermentum mi. Ut ac tristique orci. Cras ac dapibus enim. Pellentesque eu dictum lacus, eget tincidunt nisi.
+
+
+
+<script type="text/javascript"> DiscourseEmbed = { discourseUrl: 'https://discourse.hatschito.xyz/', discourseEmbedUrl: 'https://hatschito.github.io/blog{{page.url}}' };
+(function() { var d = document.createElement('script'); d.type = 'text/javascript'; d.async = true; d.src = DiscourseEmbed.discourseUrl + 'javascripts/embed.js'; (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(d); })(); </script>
